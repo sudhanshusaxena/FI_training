@@ -1,0 +1,289 @@
+# UK HR POLICIES - LEAVE MANAGEMENT
+# Version: 2.1 | Last Updated: 2024-01-15
+# Coverage: All UK Operations
+
+================================================================================
+UK LEAVE POLICIES - COMPREHENSIVE GUIDE
+================================================================================
+
+## ANNUAL LEAVE POLICY - UK
+Policy ID: UK-ANNUAL-001
+Effective Date: January 1, 2024
+Applicable Regions: All UK Operations
+
+### Annual Leave Entitlement:
+- Full-time employees: 25 working days per calendar year
+- Part-time employees: Pro-rated based on hours worked
+- New employees: Pro-rated from start date
+- Probationary employees: Full entitlement from day one
+- Contract employees: Pro-rated based on contract duration
+
+### Annual Leave Accrual System:
+- Accrues monthly at 2.08 days per month (25 days ÷ 12 months)
+- Full entitlement available from January 1st
+- Can be taken in advance with manager approval
+- Pro-rated for employees starting mid-year
+- Accrual stops during unpaid leave periods
+
+### Annual Leave Rules and Regulations:
+- Minimum 2 weeks advance notice required for planned leave
+- Maximum 10 consecutive days without manager approval
+- Cannot be carried forward (except by special agreement)
+- Unused leave paid at basic salary rate at year-end
+- Leave during probation: No restrictions
+
+### Annual Leave Application Process:
+- Submit leave request through HR system
+- Manager approval required for all leave
+- HR system automatically calculates remaining balance
+- Confirmation email sent upon approval
+- Changes to approved leave require manager re-approval
+
+### Annual Leave Approval Hierarchy:
+- Up to 5 days: Direct supervisor approval
+- 6-10 days: Department manager approval
+- 11-15 days: HR manager approval
+- 15+ days: Senior management approval
+
+## SICK LEAVE POLICY - UK
+Policy ID: UK-SICK-001
+Effective Date: January 1, 2024
+
+### Sick Leave Entitlement:
+- All employees: 10 working days per calendar year
+- Statutory Sick Pay (SSP): £109.40 per week
+- Company sick pay: Full salary for first 5 days
+- Company sick pay: 80% salary for days 6-10
+- No carry forward allowed to next year
+
+### Sick Leave Rules and Documentation:
+- Self-certification for up to 7 days
+- Medical certificate (fit note) required for 8+ days
+- Hospital discharge summary for hospitalization
+- Specialist doctor certificate for specific conditions
+- Return-to-work interview required after 3+ days
+
+### Sick Leave Usage Guidelines:
+- Personal illness or injury
+- Medical appointments and procedures
+- Mental health days: 2 days per year included
+- COVID-19 related absences
+- Family member care (limited circumstances)
+
+### Sick Leave Process:
+- Notify manager as soon as possible
+- Submit sick leave form within 24 hours
+- Provide medical certificate if required
+- Return-to-work interview upon return
+- Occupational health referral for frequent absences
+
+## MATERNITY LEAVE POLICY - UK
+Policy ID: UK-MATERNITY-001
+Effective Date: January 1, 2024
+
+### Maternity Leave Entitlement:
+- Female employees: 52 weeks total leave
+- First 6 weeks: 90% of average weekly earnings
+- Next 33 weeks: £172.48 per week or 90% of earnings (whichever is lower)
+- Remaining 13 weeks: Unpaid
+- Must take minimum 2 weeks after birth (4 weeks for factory workers)
+
+### Maternity Leave Benefits:
+- Job protection guaranteed during leave
+- Health benefits continued
+- Pension contributions maintained
+- Flexible return to work options
+- Lactation breaks: 1 hour per day for 6 months
+
+### Maternity Leave Process:
+- Notify employer by 15th week of pregnancy
+- Provide MATB1 certificate
+- Submit maternity leave form
+- Agree on return date
+- Keep in touch days: Up to 10 days during leave
+
+### Paternity Leave Policy:
+- Male employees: 2 weeks paid leave
+- Must be taken within 8 weeks of birth
+- £172.48 per week or 90% of earnings
+- Cannot be taken in parts
+- Must give 15 weeks notice
+
+### Shared Parental Leave:
+- Up to 50 weeks shared between parents
+- Up to 37 weeks paid at £172.48 per week
+- Can be taken in blocks of weeks
+- Must give 8 weeks notice
+- Both parents must be eligible
+
+## BANK HOLIDAYS POLICY - UK
+Policy ID: UK-BANK-001
+Effective Date: January 1, 2024
+
+### Bank Holiday Entitlement:
+- England & Wales: 8 bank holidays per year
+- Scotland: 9 bank holidays per year
+- Northern Ireland: 10 bank holidays per year
+- Additional to annual leave entitlement
+- Pro-rated for part-time employees
+
+### Bank Holiday Schedule:
+- New Year's Day
+- Good Friday
+- Easter Monday
+- Early May Bank Holiday
+- Spring Bank Holiday
+- Summer Bank Holiday
+- Christmas Day
+- Boxing Day
+- (Scotland: St. Andrew's Day, Northern Ireland: St. Patrick's Day)
+
+### Bank Holiday Rules:
+- No advance notice required
+- Cannot be carried forward
+- Cannot be encashed
+- Work on bank holidays: Double time pay
+- Alternative bank holidays: By agreement
+
+## COMPASSIONATE LEAVE POLICY - UK
+Policy ID: UK-COMPASSIONATE-001
+Effective Date: January 1, 2024
+
+### Compassionate Leave Entitlement:
+- Immediate family (spouse, children, parents): 5 days paid leave
+- Extended family (grandparents, siblings): 3 days paid leave
+- Close friends: 1 day paid leave
+- Additional unpaid leave available with manager approval
+
+### Compassionate Leave Rules:
+- No advance notice required
+- Can be taken in parts
+- Documentation may be required for extended leave
+- Can be combined with other leave types
+- Manager approval required for additional time
+
+## STUDY LEAVE POLICY - UK
+Policy ID: UK-STUDY-001
+Effective Date: January 1, 2024
+
+### Study Leave Entitlement:
+- Job-related courses: Up to 5 days paid leave per year
+- Professional qualifications: Up to 10 days paid leave per year
+- Degree courses: Up to 15 days paid leave per year
+- Must be approved by manager and HR
+- Must be relevant to current role or career development
+
+### Study Leave Rules:
+- Advance notice required (minimum 4 weeks)
+- Manager approval required
+- Must provide course details and schedule
+- Cannot be combined with other leave types
+- Must pass exams to maintain entitlement
+
+## LEAVE CALCULATION EXAMPLES - UK
+================================================================================
+
+### Example 1: Full-time Employee (3 years tenure)
+Employee: Sarah Johnson
+- Annual Leave Entitlement: 25 days
+- Sick Leave Entitlement: 10 days
+- Bank Holidays: 8 days
+- Total Leave Available: 43 days per year
+- Leave Taken: Annual (15), Sick (1), Bank (8) = 24 days
+- Leave Remaining: 19 days
+
+### Example 2: Part-time Employee (2 years tenure, 20 hours/week)
+Employee: James Wilson
+- Annual Leave Entitlement: 12.5 days (pro-rated)
+- Sick Leave Entitlement: 5 days (pro-rated)
+- Bank Holidays: 4 days (pro-rated)
+- Total Leave Available: 21.5 days per year
+- Leave Taken: Annual (8), Sick (1), Bank (4) = 13 days
+- Leave Remaining: 8.5 days
+
+### Example 3: New Employee (6 months tenure)
+Employee: Emma Brown
+- Annual Leave Entitlement: 12.5 days (pro-rated)
+- Sick Leave Entitlement: 10 days
+- Bank Holidays: 4 days (pro-rated)
+- Total Leave Available: 26.5 days per year
+- Leave Taken: Annual (5), Sick (0), Bank (4) = 9 days
+- Leave Remaining: 17.5 days
+
+## LEAVE TRACKING AND REPORTING - UK
+================================================================================
+
+### Mandatory Tracking Requirements:
+- Leave type (Annual/Sick/Maternity/Paternity/Bank/Compassionate)
+- Leave dates (start and end)
+- Leave duration (in days)
+- Leave status (Approved/Pending/Rejected)
+- Employee ID and name
+- Manager approval
+- Leave balance remaining
+- Medical certificates (if applicable)
+
+### Payroll Integration:
+- Monthly accrual calculations
+- Leave balance updates
+- Payroll deductions for unpaid leave
+- Year-end leave payout processing
+- Bank holiday pay calculations
+
+### Compliance Reporting:
+- Working Time Regulations compliance
+- Maternity/paternity leave tracking
+- Annual leave utilization reports
+- Sick leave trend analysis
+- Health and safety reporting
+
+## LEGAL COMPLIANCE - UK
+================================================================================
+
+### Working Time Regulations:
+- Maximum 48 hours per week (average over 17 weeks)
+- Minimum 11 hours rest between shifts
+- Minimum 24 hours rest per week
+- Minimum 20 minutes break for 6+ hour shifts
+
+### Employment Rights Act:
+- Right to request flexible working
+- Right to time off for dependants
+- Right to paid annual leave
+- Right to sick pay
+- Right to maternity/paternity leave
+
+### Equality Act:
+- No discrimination in leave policies
+- Reasonable adjustments for disabilities
+- Equal treatment for all employees
+- Protection from harassment
+
+## CONTACT INFORMATION - UK
+================================================================================
+
+### HR Department Contacts:
+- Head of HR: hr-head-uk@company.com | +44-20-1234-5678
+- Leave Management: leave-uk@company.com | +44-20-1234-5679
+- Policy Queries: policy-uk@company.com | +44-20-1234-5680
+- Maternity Coordinator: maternity-uk@company.com | +44-20-1234-5681
+
+### Regional HR Contacts:
+- England: hr-england@company.com | +44-20-1234-5682
+- Scotland: hr-scotland@company.com | +44-131-1234-5683
+- Wales: hr-wales@company.com | +44-29-1234-5684
+- Northern Ireland: hr-ni@company.com | +44-28-1234-5685
+
+### Legal and Compliance:
+- Legal Department: legal-uk@company.com | +44-20-1234-5686
+- Compliance Officer: compliance-uk@company.com | +44-20-1234-5687
+- Employment Relations: employment-uk@company.com | +44-20-1234-5688
+
+### Policy Updates:
+- Policy Review: January 1, 2025
+- Compliance Review: Quarterly
+- Legal Updates: As required by UK employment law
+
+================================================================================
+END OF UK HR POLICIES DOCUMENT
+================================================================================

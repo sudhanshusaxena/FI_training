@@ -1,0 +1,235 @@
+# INDIA HR POLICIES - LEAVE MANAGEMENT
+# Version: 2.1 | Last Updated: 2024-01-15
+# Coverage: All India Operations
+
+================================================================================
+INDIA LEAVE POLICIES - COMPREHENSIVE GUIDE
+================================================================================
+
+## ANNUAL LEAVE POLICY - INDIA
+Policy ID: IND-LEAVE-001
+Effective Date: January 1, 2024
+Applicable Regions: All India Operations
+
+### Annual Leave Entitlement:
+- Full-time employees: 21 working days per calendar year
+- Part-time employees (50%+): 10.5 working days per calendar year
+- Probationary employees: 12 working days per calendar year (prorated)
+- Contract employees: 15 working days per calendar year
+- Interns: 5 working days per calendar year
+
+### Leave Accrual System:
+- Leave accrues monthly at 1.75 days per month for full-time employees
+- Leave accrues monthly at 0.875 days per month for part-time employees
+- Leave accrues monthly at 1.0 day per month for probationary employees
+- Leave accrues monthly at 1.25 days per month for contract employees
+- Leave accrues monthly at 0.42 days per month for interns
+
+### Leave Carry Forward Rules:
+- Maximum 15 days can be carried forward to next year
+- Unused leave beyond 15 days will be encashed at basic salary rate
+- Carry forward must be applied for by December 15th
+- Encashment processed in January payroll
+- Carry forward leave expires if not used by March 31st
+
+### Leave Application Process:
+- Annual leave: Minimum 7 days advance notice required
+- Emergency leave: Can be applied with 24 hours notice
+- Leave during probation: Maximum 5 days allowed
+- Leave during notice period: Subject to manager approval
+- Leave during critical project phases: Requires senior management approval
+
+### Leave Approval Hierarchy:
+- Up to 3 days: Direct supervisor approval
+- 4-7 days: Department head approval
+- 8-15 days: HR manager approval
+- 15+ days: Senior management approval
+
+## SICK LEAVE POLICY - INDIA
+Policy ID: IND-SICK-001
+Effective Date: January 1, 2024
+
+### Sick Leave Entitlement:
+- Full-time employees: 12 working days per calendar year
+- Part-time employees: 6 working days per calendar year
+- Probationary employees: 6 working days per calendar year
+- Contract employees: 8 working days per calendar year
+- Interns: 3 working days per calendar year
+
+### Sick Leave Rules and Regulations:
+- Medical certificate required for leave exceeding 3 consecutive days
+- Sick leave cannot be carried forward to next year
+- Sick leave cannot be encashed
+- Half-day sick leave allowed with manager approval
+- Sick leave can be used for family member illness (spouse, children, parents)
+- Mental health days: 2 days per year included in sick leave
+
+### Sick Leave Documentation:
+- Self-certification for 1-3 days
+- Medical certificate from registered doctor for 4+ days
+- Hospital discharge summary for hospitalization
+- Specialist doctor certificate for specific conditions
+
+## CASUAL LEAVE POLICY - INDIA
+Policy ID: IND-CASUAL-001
+Effective Date: January 1, 2024
+
+### Casual Leave Entitlement:
+- All employees: 7 working days per calendar year
+- Cannot be carried forward to next year
+- Cannot be encashed
+- Maximum 2 consecutive days allowed per application
+
+### Casual Leave Usage Guidelines:
+- Personal emergencies and family functions
+- Religious observances and festivals
+- Medical appointments (non-emergency)
+- Educational purposes (exams, interviews)
+- Legal obligations (court appearances, documentation)
+
+### Casual Leave Application:
+- Minimum 24 hours advance notice
+- Emergency applications accepted with valid reason
+- Manager approval required for all casual leave
+- Cannot be combined with other leave types
+
+## MATERNITY LEAVE POLICY - INDIA
+Policy ID: IND-MATERNITY-001
+Effective Date: January 1, 2024
+
+### Maternity Leave Entitlement:
+- Female employees: 26 weeks (6.5 months) paid leave
+- Adoptive mothers: 12 weeks paid leave
+- Surrogate mothers: 12 weeks paid leave
+- Commissioning mothers: 12 weeks paid leave
+- Miscarriage/abortion: 6 weeks paid leave
+
+### Maternity Leave Benefits:
+- Full salary during maternity leave
+- Health insurance coverage continues
+- Job protection guaranteed
+- Flexible return to work options
+- Lactation breaks: 1 hour per day for 6 months
+
+### Paternity Leave Policy:
+- Male employees: 15 days paid leave
+- Adoptive fathers: 15 days paid leave
+- Must be taken within 8 weeks of birth/adoption
+- Can be taken in parts (minimum 3 days at a time)
+
+## COMPENSATORY LEAVE POLICY - INDIA
+Policy ID: IND-COMP-001
+Effective Date: January 1, 2024
+
+### Compensatory Leave Entitlement:
+- For working on public holidays: 1 day compensatory leave
+- For working on weekends: 1 day compensatory leave
+- For overtime beyond 2 hours: 0.5 day compensatory leave
+- Maximum 10 compensatory leaves per year
+
+### Compensatory Leave Rules:
+- Must be used within 3 months of earning
+- Cannot be encashed
+- Cannot be carried forward
+- Manager approval required for utilization
+
+## LEAVE CALCULATION EXAMPLES - INDIA
+================================================================================
+
+### Example 1: Full-time Employee (3 years tenure)
+Employee: Rajesh Kumar
+- Annual Leave Entitlement: 21 days
+- Sick Leave Entitlement: 12 days
+- Casual Leave Entitlement: 7 days
+- Total Leave Available: 40 days per year
+- Leave Taken: Annual (8), Sick (3), Casual (2) = 13 days
+- Leave Remaining: 27 days
+
+### Example 2: Part-time Employee (2 years tenure)
+Employee: Priya Sharma
+- Annual Leave Entitlement: 10.5 days
+- Sick Leave Entitlement: 6 days
+- Casual Leave Entitlement: 7 days
+- Total Leave Available: 23.5 days per year
+- Leave Taken: Annual (5), Sick (1), Casual (1) = 7 days
+- Leave Remaining: 16.5 days
+
+### Example 3: Probationary Employee (6 months)
+Employee: Amit Singh
+- Annual Leave Entitlement: 6 days (prorated)
+- Sick Leave Entitlement: 6 days
+- Casual Leave Entitlement: 7 days
+- Total Leave Available: 19 days per year
+- Leave Taken: Annual (2), Sick (1), Casual (1) = 4 days
+- Leave Remaining: 15 days
+
+## LEAVE TRACKING AND REPORTING - INDIA
+================================================================================
+
+### Mandatory Tracking Requirements:
+- Leave type (Annual/Sick/Casual/Compensatory)
+- Leave dates (start and end)
+- Leave duration (in days)
+- Leave status (Approved/Pending/Rejected)
+- Employee ID and name
+- Manager approval
+- Leave balance remaining
+- Medical certificates (if applicable)
+
+### Monthly Reporting:
+- Leave utilization reports by department
+- Leave balance reports by employee
+- Leave trend analysis
+- Compliance reports for labor law adherence
+
+### Annual Reporting:
+- Leave carry forward reports
+- Leave encashment reports
+- Leave policy compliance reports
+- Employee satisfaction surveys
+
+## COMPLIANCE AND LEGAL REQUIREMENTS - INDIA
+================================================================================
+
+### Labor Law Compliance:
+- Factories Act, 1948 compliance
+- Shops and Establishments Act compliance
+- Maternity Benefit Act, 2017 compliance
+- Industrial Disputes Act compliance
+
+### Documentation Requirements:
+- Leave application forms
+- Medical certificates
+- Manager approval records
+- HR policy acknowledgment
+- Leave balance statements
+
+### Audit Requirements:
+- Quarterly leave audits
+- Annual compliance reviews
+- Labor department inspections
+- Internal HR audits
+
+## CONTACT INFORMATION - INDIA
+================================================================================
+
+### HR Department Contacts:
+- Head of HR: hr-head-india@company.com | +91-11-1234-5678
+- Leave Management: leave-india@company.com | +91-11-1234-5679
+- Policy Queries: policy-india@company.com | +91-11-1234-5680
+- Emergency Contact: hr-emergency-india@company.com | +91-11-1234-5681
+
+### Regional HR Contacts:
+- North India: hr-north@company.com | +91-11-1234-5682
+- South India: hr-south@company.com | +91-44-1234-5683
+- East India: hr-east@company.com | +91-33-1234-5684
+- West India: hr-west@company.com | +91-22-1234-5685
+
+### Policy Updates:
+- Policy Review: January 1, 2025
+- Compliance Review: Quarterly
+- Legal Updates: As required by Indian labor laws
+
+================================================================================
+END OF INDIA HR POLICIES DOCUMENT
+================================================================================

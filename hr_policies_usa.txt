@@ -1,0 +1,276 @@
+# USA HR POLICIES - LEAVE MANAGEMENT
+# Version: 2.1 | Last Updated: 2024-01-15
+# Coverage: All US Operations
+
+================================================================================
+USA LEAVE POLICIES - COMPREHENSIVE GUIDE
+================================================================================
+
+## VACATION LEAVE POLICY - USA
+Policy ID: USA-VACATION-001
+Effective Date: January 1, 2024
+Applicable Regions: All US Operations
+
+### Vacation Leave Entitlement by Tenure:
+- 0-2 years: 10 working days per calendar year
+- 3-5 years: 15 working days per calendar year
+- 6-10 years: 20 working days per calendar year
+- 11-15 years: 25 working days per calendar year
+- 16+ years: 30 working days per calendar year
+
+### Vacation Accrual System:
+- Accrues bi-weekly based on tenure and employment status
+- 0-2 years: 3.08 hours per pay period (80 hours annually)
+- 3-5 years: 4.62 hours per pay period (120 hours annually)
+- 6-10 years: 6.15 hours per pay period (160 hours annually)
+- 11-15 years: 7.69 hours per pay period (200 hours annually)
+- 16+ years: 9.23 hours per pay period (240 hours annually)
+
+### Vacation Carry Forward Rules:
+- Maximum 5 days can be carried forward to next year
+- Unused vacation paid out at year-end at current salary rate
+- Carry forward deadline: December 31st
+- Carry forward leave expires if not used by March 31st
+- New employees: Pro-rated vacation based on start date
+
+### Vacation Application Process:
+- Minimum 2 weeks advance notice for planned vacation
+- Emergency vacation: Manager approval required
+- Blackout periods: December 15-31 (limited approval)
+- Peak season restrictions: Manager discretion
+- Vacation during probation: Maximum 3 days allowed
+
+### Vacation Approval Hierarchy:
+- Up to 5 days: Direct supervisor approval
+- 6-10 days: Department manager approval
+- 11-15 days: HR manager approval
+- 15+ days: Senior management approval
+
+## SICK LEAVE POLICY - USA
+Policy ID: USA-SICK-001
+Effective Date: January 1, 2024
+
+### Sick Leave Entitlement:
+- All employees: 10 working days per calendar year
+- Accrues at 3.08 hours per pay period (80 hours annually)
+- No carry forward allowed to next year
+- No payout for unused sick leave
+- Pro-rated for new employees based on start date
+
+### Sick Leave Usage Guidelines:
+- Personal illness or injury
+- Medical appointments and procedures
+- Family member illness (spouse, children, parents)
+- Mental health days: 2 days per year included
+- Preventive care and wellness visits
+- COVID-19 related absences
+
+### Sick Leave Documentation:
+- Self-certification for 1-3 days
+- Doctor's note required for 4+ consecutive days
+- Hospital discharge summary for hospitalization
+- Specialist doctor certificate for specific conditions
+- FMLA certification for serious health conditions
+
+### Sick Leave Rules:
+- No advance notice required for illness
+- Can be used in half-day increments
+- Cannot be used for personal reasons
+- Cannot be combined with vacation leave
+- Manager approval required for extended absences
+
+## PERSONAL LEAVE POLICY - USA
+Policy ID: USA-PERSONAL-001
+Effective Date: January 1, 2024
+
+### Personal Leave Entitlement:
+- All employees: 3 floating holidays per calendar year
+- Must be used within calendar year
+- Cannot be carried forward to next year
+- Cannot be encashed
+- Pro-rated for new employees
+
+### Personal Leave Usage:
+- Personal appointments and errands
+- Religious observances and holidays
+- Family emergencies and events
+- Mental health days and wellness
+- Educational purposes (exams, interviews)
+- Legal obligations (court, documentation)
+
+### Personal Leave Application:
+- Minimum 24 hours advance notice
+- Emergency applications accepted with valid reason
+- Manager approval required for all personal leave
+- Cannot be combined with other leave types
+- Maximum 2 consecutive days per application
+
+## FAMILY MEDICAL LEAVE ACT (FMLA) - USA
+Policy ID: USA-FMLA-001
+Effective Date: January 1, 2024
+
+### FMLA Eligibility:
+- 12 months of employment with company
+- 1,250 hours worked in previous 12 months
+- Worksite with 50+ employees within 75 miles
+
+### FMLA Entitlement:
+- Eligible employees: 12 weeks unpaid leave per year
+- Qualifying events: Birth, adoption, serious health condition
+- Job protection guaranteed during leave
+- Health benefits continued at employee cost
+- Return to same or equivalent position
+
+### FMLA Qualifying Events:
+- Birth and care of newborn child
+- Adoption or foster care placement
+- Care for spouse, child, or parent with serious health condition
+- Employee's own serious health condition
+- Military family leave (26 weeks for service member care)
+
+### FMLA Documentation:
+- Medical certification required
+- Recertification every 6 months
+- Fitness-for-duty certification for return
+- Military family leave certification
+
+## BEREAVEMENT LEAVE POLICY - USA
+Policy ID: USA-BEREAVEMENT-001
+Effective Date: January 1, 2024
+
+### Bereavement Leave Entitlement:
+- Immediate family (spouse, children, parents, siblings): 5 days paid leave
+- Extended family (grandparents, in-laws): 3 days paid leave
+- Close friends: 1 day paid leave
+- Additional unpaid leave available with manager approval
+
+### Bereavement Leave Rules:
+- No advance notice required
+- Can be taken in parts
+- Documentation may be required for extended leave
+- Can be combined with other leave types
+- Manager approval required for additional time
+
+## JURY DUTY LEAVE POLICY - USA
+Policy ID: USA-JURY-001
+Effective Date: January 1, 2024
+
+### Jury Duty Leave Entitlement:
+- All employees: Paid leave for jury duty
+- Regular salary paid during jury service
+- No limit on duration of jury service
+- Make-up time allowed for extended service
+
+### Jury Duty Leave Rules:
+- Advance notice required when possible
+- Documentation required (jury summons)
+- Cannot be denied or discouraged
+- Return to same position guaranteed
+- Additional unpaid leave available if needed
+
+## LEAVE CALCULATION EXAMPLES - USA
+================================================================================
+
+### Example 1: Senior Employee (8 years tenure)
+Employee: Michael Brown
+- Vacation Leave Entitlement: 20 days
+- Sick Leave Entitlement: 10 days
+- Personal Leave Entitlement: 3 days
+- Total Leave Available: 33 days per year
+- Leave Taken: Vacation (18), Sick (4), Personal (2) = 24 days
+- Leave Remaining: 9 days
+
+### Example 2: Mid-level Employee (4 years tenure)
+Employee: Jennifer Davis
+- Vacation Leave Entitlement: 15 days
+- Sick Leave Entitlement: 10 days
+- Personal Leave Entitlement: 3 days
+- Total Leave Available: 28 days per year
+- Leave Taken: Vacation (12), Sick (2), Personal (1) = 15 days
+- Leave Remaining: 13 days
+
+### Example 3: New Employee (1 year tenure)
+Employee: David Wilson
+- Vacation Leave Entitlement: 10 days
+- Sick Leave Entitlement: 10 days
+- Personal Leave Entitlement: 3 days
+- Total Leave Available: 23 days per year
+- Leave Taken: Vacation (5), Sick (1), Personal (1) = 7 days
+- Leave Remaining: 16 days
+
+## LEAVE TRACKING AND REPORTING - USA
+================================================================================
+
+### Mandatory Tracking Requirements:
+- Leave type (Vacation/Sick/Personal/FMLA/Bereavement)
+- Leave dates (start and end)
+- Leave duration (in hours)
+- Leave status (Approved/Pending/Rejected)
+- Employee ID and name
+- Manager approval
+- Leave balance remaining
+- Medical certificates (if applicable)
+
+### Payroll Integration:
+- Bi-weekly accrual calculations
+- Leave balance updates
+- Payroll deductions for unpaid leave
+- Year-end carry forward processing
+- Vacation payout calculations
+
+### Compliance Reporting:
+- FMLA usage reports
+- ADA accommodation tracking
+- State-specific leave requirements
+- Federal labor law compliance
+- Annual leave utilization reports
+
+## STATE-SPECIFIC LEAVE REQUIREMENTS - USA
+================================================================================
+
+### California:
+- Paid Sick Leave: 3 days per year
+- Family Leave: Additional 12 weeks
+- Pregnancy Disability Leave: Up to 4 months
+
+### New York:
+- Paid Family Leave: Up to 12 weeks
+- Paid Sick Leave: 5-7 days per year
+- Pregnancy Leave: Additional protections
+
+### Washington:
+- Paid Family and Medical Leave: Up to 12 weeks
+- Paid Sick Leave: 1 hour per 40 hours worked
+
+### Massachusetts:
+- Paid Family and Medical Leave: Up to 26 weeks
+- Paid Sick Leave: 1 hour per 30 hours worked
+
+## CONTACT INFORMATION - USA
+================================================================================
+
+### HR Department Contacts:
+- Head of HR: hr-head-usa@company.com | +1-555-123-4567
+- Leave Management: leave-usa@company.com | +1-555-123-4568
+- Policy Queries: policy-usa@company.com | +1-555-123-4569
+- FMLA Coordinator: fmla-usa@company.com | +1-555-123-4570
+
+### Regional HR Contacts:
+- West Coast: hr-west@company.com | +1-555-123-4571
+- East Coast: hr-east@company.com | +1-555-123-4572
+- Central: hr-central@company.com | +1-555-123-4573
+- South: hr-south@company.com | +1-555-123-4574
+
+### Legal and Compliance:
+- Legal Department: legal-usa@company.com | +1-555-123-4575
+- Compliance Officer: compliance-usa@company.com | +1-555-123-4576
+- Labor Relations: labor-usa@company.com | +1-555-123-4577
+
+### Policy Updates:
+- Policy Review: January 1, 2025
+- Compliance Review: Quarterly
+- Legal Updates: As required by federal and state laws
+
+================================================================================
+END OF USA HR POLICIES DOCUMENT
+================================================================================
